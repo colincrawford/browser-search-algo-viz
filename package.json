@@ -1,0 +1,16 @@
+{
+  "name": "browser-search-algo-viz",
+  "version": "1.0.0",
+  "description": "Playing around with canvas api",
+  "main": "index.js",
+  "repository": "https://github.com/colinlcrawford/browser-search-algo-viz",
+  "author": "Colin Crawford <ccolin84@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "start": "http-server public"
+  }
+}
